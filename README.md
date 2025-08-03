@@ -355,9 +355,9 @@ CONTAINER_TYPES['Custom-Container'] = (15.0, 3.0, 3.0, 35000)
 
 This project was developed by:
 
-- **Sahil M Patil** - Lead Developer & AI Integration Specialist
-- **Tushar Dhottre** - Frontend Development & AR/VR Implementation
-- **Ashutosh Thaware** - Backend Architecture & Algorithm Design
+- **Sahil M Patil** - Captain  & AI Integration 
+- **Tushar Dhottre** - Frontend Development and Backend Development 
+- **Ashutosh Thaware** - Tech Researcher  and source locator 
 
 ## 📄 License
 
