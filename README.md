@@ -123,7 +123,7 @@ python app_modular.py
 ### 📱 AR Application & Resources
 - **📦 AR Application APK**: [Download AR App](https://drive.google.com/file/d/1YLzJt9qcjwP9PksppQThPeI5o75yGZT0/view?usp=sharing)
 - **🎯 AR Tracker Image**: [Download AR Tracker](https://drive.google.com/file/d/10SR7P7Eatns1g4c0h7AEtD6ZVPAYbIhq/view?usp=sharing)
-- **🎥 Demo Video**: [Watch Demo on YouTube](https://youtu.be/l3YzHS40i3Y)
+
 
 ### Unity Setup
 1. **Install Unity 2021.3 LTS+** with AR Foundation
