@@ -369,8 +369,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the CargoVortex Team**
 
-[🌟 Star us on GitHub](https://github.com/Dinesh210805/CargoVortex_TGB) | [🐛 Report Bug](https://github.com/Dinesh210805/CargoVortex_TGB/issues) | [💡 Request Feature](https://github.com/Dinesh210805/CargoVortex_TGB/issues)
-
-*Revolutionizing container logistics, one optimization at a time.*
 
 </div>
